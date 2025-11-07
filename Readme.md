@@ -3,19 +3,7 @@
 Bookmarks Menu
 ==============
 
-### Mozilla Firefox
-
-[Get Help](https://support.mozilla.org/products/firefox)
-
-[Customize Firefox](https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize)
-
-[Get Involved](https://www.mozilla.org/contribute/)
-
-[About Us](https://www.mozilla.org/about/)
-
 ### Bookmarks Toolbar
-
-[Getting Started](https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global)
 
 [Scratchapixel 3.0, Learn Computer Graphics Programming](https://www.scratchapixel.com/index.html)
 
