@@ -105,8 +105,6 @@ Bookmarks Menu
 
 ### Golang
 
-### New Folder
-
 [IPFS WG - Go Core Dev - YouTube](https://www.youtube.com/playlist?list=PLuhRWgmPaHtTgHaw0DO8lYYYk814IKead)
 
 [Learn how binary encoding works | Butterscotch Shenanigans](https://www.bscotch.net/post/learn-how-binary-encoding-works)
