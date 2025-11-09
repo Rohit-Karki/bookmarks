@@ -15,7 +15,7 @@ Bookmarks Menu
 
 [Adopted from pdflib image sample (C) - 33959125-MIT.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/11589/33959125-MIT.pdf?sequence=2)
 
-[18 year old fixes bugs in every open source package to release a working Linux distribution Search Info Shopping Tap to unmute 2x If playback doesn't begin shortly, try restarting your device. Full screen is unavailable. Learn More • 0:01 / 1:54:58 • Watch full video Live Up next Live Upcoming Cancel Play Now Share Include playlist An error occurred while retrieving sharing information. Please try again later. Watch later Share Copy link 0:00 0:01 / 1:54:58 • Watch full video Live • •](https://www.youtube.com/watch?v=ukJ1ZQxtPaY)
+[18 year old fixes bugs in every open source package to release a working Linux distribution](https://www.youtube.com/watch?v=ukJ1ZQxtPaY)
 
 [Accelerate](https://itrevolution.com/product/accelerate/)
 
